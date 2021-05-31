@@ -18,4 +18,11 @@ Following are the attribute for dataset:
 
 Outcome is the dependent variable and all others are independent variables
 
+# Working #
+* Exploratory Data Analysis
+* Feature Engineering
+* Feature Selection
+* Model Building
+* Evaluation and Prediction
+
 
